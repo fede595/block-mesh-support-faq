@@ -1,4 +1,4 @@
-# Intract Perk
+# INTRACT_PERK.md
 
 ## This isn't fully functional yet, we will announnce when it's 100% completed.
 
